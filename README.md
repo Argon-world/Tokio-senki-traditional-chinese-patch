@@ -15,24 +15,33 @@
 
 ## 繁體中文版（擴充至 256 KB）
 
-- **V1.0**：一般完整版本
-- **V1.0 No Bargain**：不包含大特賣中版的版本
+- **V1.0（一般完整版本）**
+- **V1.0 No Bargain（不包含武器特賣事件）**
 
-### 中文版（擴展至 256KB，V1.0）
+## 中文版 V1.0
 
 - Database match：Not found
 - Database：No-Intro: Game Boy/Color (v. 20210227-015730)
 - SHA-1：`72C72EE4762D5770937FB1391479D1DDAAAB6D6A`
 - CRC32：`A07F52CD`
 
-### 中文版（擴展至 256KB，V1.0／無大特賣中版 No Bargain version）
+## 中文版 V1.0 No Bargain
 
 - Database match：Not found
 - Database：No-Intro: Game Boy/Color (v. 20210227-015730)
 - SHA-1：`FE8F232B2C01BD9E1C01352D36A5C1FDF4759828`
 - CRC32：`760F6A96`
 
-> 注意：本補丁僅包含個人製作之繁體中文化修改數據（IPS 檔），不含任何原始遊戲 ROM 檔案。請玩家自行準備合法取得之日文原版 ROM，並套用補丁。
+> 注意：本補丁僅包含製作團隊製作的繁體中文化修改資料（IPS 檔），不包含任何原始遊戲 ROM。
+> 請玩家自行準備合法取得的日文原版 ROM，再套用本補丁。
+
+## 版本差異
+
+### V1.0（含武器特賣事件）
+參考原版中的未使用文字，新增武器特賣事件。
+
+### V1.0 No Bargain（不含武器特賣事件）
+未加入武器特賣事件，保留日文原版的相關設定。
 
 版本差異
 
