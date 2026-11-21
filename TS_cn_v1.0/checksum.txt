@@ -1,4 +1,4 @@
-線上打補丁
+線上套用補丁（推薦）
 可使用支援 IPS 格式的線上工具直接套用補丁：
 
 https://www.marcrobledo.com/RomPatcher.js/
@@ -27,4 +27,4 @@ Database: No-Intro: Game Boy/Color (v. 20210227-015730)
 File/ROM SHA-1: FE8F232B2C01BD9E1C01352D36A5C1FDF4759828
 File/ROM CRC32: 760F6A96
 
-注意：本補丁僅包含個人製作之繁體中文化修改數據（IPS檔），不含任何原始遊戲ROM檔案。請玩家自行準備合法取得之日文原版ROM進行打補丁。
+注意：本補丁僅包含製作團隊製作的繁體中文修改資料（IPS 檔），不含任何原始遊戲ROM檔案。請玩家自行準備合法取得之日文原版ROM進行打補丁。
