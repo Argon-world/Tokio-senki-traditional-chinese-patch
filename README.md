@@ -13,6 +13,11 @@
 - SHA-1：`1AA4F93A4AD0E0A273A723C70E01494F04B1F214`
 - CRC32：`9DB7DCC3`
 
+## 繁體中文版（擴充至 256 KB）
+
+- **V1.0**：一般完整版本
+- **V1.0 No Bargain**：不包含大特賣中版的版本
+
 ### 中文版（擴展至 256KB，V1.0）
 
 - Database match：Not found
@@ -20,7 +25,7 @@
 - SHA-1：`72C72EE4762D5770937FB1391479D1DDAAAB6D6A`
 - CRC32：`A07F52CD`
 
-### 中文版（擴展至 256KB，V1.0／無大特賣中版）
+### 中文版（擴展至 256KB，V1.0／無大特賣中版 No Bargain version）
 
 - Database match：Not found
 - Database：No-Intro: Game Boy/Color (v. 20210227-015730)
@@ -72,7 +77,7 @@ V1.0 No Bargain（不含武器特賣事件）
 4. 將補丁套用至原版 ROM。
 5. 完成後即可遊玩修改版。
 
-## 線上打補丁（推薦）
+## 線上套用補丁（推薦）
 
 可使用支援 IPS 格式的線上工具：
 
