@@ -6,7 +6,7 @@
 
 ## 對應 ROM 版本
 
-### 日文原版（128KB）
+### 日文原版（128 KB）
 
 - Database match：Tokio Senki - Eiyuu Retsuden (Japan)
 - Database：No-Intro: Game Boy/Color (v. 20210227-015730)
@@ -31,9 +31,6 @@
 - Database：No-Intro: Game Boy/Color (v. 20210227-015730)
 - SHA-1：`FE8F232B2C01BD9E1C01352D36A5C1FDF4759828`
 - CRC32：`760F6A96`
-
-> 注意：本補丁僅包含製作團隊製作的繁體中文化修改資料（IPS 檔），不包含任何原始遊戲 ROM。
-> 請玩家自行準備合法取得的日文原版 ROM，再套用本補丁。
 
 ## 版本差異
 
@@ -90,7 +87,7 @@ V1.0 No Bargain（不含武器特賣事件）
 
 可使用支援 IPS 格式的線上工具：
 
-https://www.marcrobledo.com/RomPatcher.js/
+[RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/)
 
 使用前請確認：
 1. 使用支援 IPS 格式的工具。
@@ -112,7 +109,7 @@ https://www.marcrobledo.com/RomPatcher.js/
 | 繁體中文版 V1.0 無大特賣中版 | 256 KB | `FE8F232B2C01BD9E1C01352D36A5C1FDF4759828` | `760F6A96` |
 
 ## 玩家回饋
-若發現翻譯錯誤或遊戲問題，歡迎透過 GitHub Issues 回報。
+若發現翻譯錯誤或遊戲問題，歡迎透過 [GitHub Issues](https://github.com/Argon-world/Tokio-senki-traditional-chinese-patch/issues) 回報。
 
 回報時請提供：
 - 問題發生的位置或畫面
