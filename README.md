@@ -29,6 +29,24 @@
 
 > 注意：本補丁僅包含個人製作之繁體中文化修改數據（IPS 檔），不含任何原始遊戲 ROM 檔案。請玩家自行準備合法取得之日文原版 ROM，並套用補丁。
 
+## 遊戲畫面
+
+以下為繁體中文版的實際遊戲畫面。
+
+### 標題畫面
+![標題畫面](screenshots/title.png)
+
+### 劇本選擇
+![劇本選擇](screenshots/scenario.png)
+
+### 君主選擇
+![君主選擇](screenshots/king.png)
+
+### 武將與軍勢
+![武將與軍勢](screenshots/army.png)
+
+### 魔法選擇
+![魔法選擇](screenshots/magic.png)
 
 ## 使用前須知
 
